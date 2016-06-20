@@ -27,6 +27,8 @@ What it does:
 
 - use the AWS Cosole UI.  Click - no problem.
 - https://beta.docker.com/docs/aws/ - "Docker for AWS" (should also check out Docker for Azure)
+- Docker Cloud
+- Docker Datacenter??
 - Other solutions to run the same setup... fewer commands?  How about docker the compose option... but where to run it on the internet?
 - other projects?
 - compare costs
