@@ -1,4 +1,7 @@
-# ecs-primer
+
+This is a WIP.
+
+# ecs-primer 
 
 Inputs:
 
@@ -6,6 +9,8 @@ Inputs:
 - Name of the project / application used as tag / name in all resources created
 - ECS key
 - ECS registry / Docker image URL to run
+- Docker compose file to define the service (see http://docs.aws.amazon.com/AmazonECS/latest/developerguide/cmd-ecs-cli-compose.html 
+  - but we provide a default spring bootstrap applicaiton)
 
 What it does:
 
